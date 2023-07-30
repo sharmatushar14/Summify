@@ -1,6 +1,7 @@
 # Sumz-AI Summarizer
 
 Sumz is an advanced web application built using React and Tailwind CSS that leverages AI-powered algorithms to provide you with accurate and concise summaries of articles based on the URL you provide. With seamless API integration and Redux management, this summarizer offers a user-friendly and efficient way to extract key information from lengthy articles.
+
 <img width="1440" alt="Screenshot 2023-07-30 at 10 52 54 PM" src="https://github.com/sharmatushar14/Summify/assets/74085254/8a225a54-d197-4bfd-bbc8-cc5f16fa1e15">
 <img width="1440" alt="Screenshot 2023-07-30 at 10 53 02 PM" src="https://github.com/sharmatushar14/Summify/assets/74085254/eddcc0cc-e8db-4a6c-996a-f3467de77220">
 
