@@ -8,15 +8,26 @@ const Hero = () => {
       <nav className='flex justify-between items-center w-full mb-10 pt-3'>
         <img src={logo} alt='sumz_logo' className='w-28 object-contain' />
 
-        <button
-          type='button'
-          onClick={() =>
-            window.open("https://github.com/TidbitsJS/Summize", "_blank")
-          }
-          className='black_btn'
-        >
-          GitHub
-        </button>
+        <div className="flex justify-end space-x-8">
+          <button
+            type='button'
+            onClick={() =>
+              window.open("https://www.linkedin.com/in/tushar1410/", "_blank")
+            }
+            className='black_btn'
+          >
+            LinkedIn
+          </button>
+          <button
+            type='button'
+            onClick={() =>
+              window.open("https://github.com/sharmatushar14", "_blank")
+            }
+            className='black_btn'
+          >
+            GitHub
+          </button>
+        </div>
       </nav>
 
       <h1 className='head_text'>
